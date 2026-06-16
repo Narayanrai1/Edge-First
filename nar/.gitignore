@@ -1,0 +1,9 @@
+# Python virtual environment (≈ node_modules)
+venv/
+
+# Persisted ChromaDB vector store (regenerated from uploads)
+chroma_store/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
