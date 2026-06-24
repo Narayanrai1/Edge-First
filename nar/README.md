@@ -237,7 +237,7 @@ rm -rf chroma_store/
 ## Run
 
 ```bash
-cd /Users/anjalirai/nar
+cd /Users/nar
 ./venv/bin/uvicorn main:app --reload
 ```
 
